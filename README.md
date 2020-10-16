@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Djando Review Guide</h1>
+	<h1>Django Review Guide</h1>
 </div>
 
 <div align="center">
