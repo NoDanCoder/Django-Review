@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Readme sample text</h1>
+	<h1>Djando Review Guide</h1>
 </div>
 
 <div align="center">
