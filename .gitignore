@@ -1,0 +1,7 @@
+# Trash
+*~
+*#
+
+# Envorinmental libraries
+.env
+~.env/requirements.txt
