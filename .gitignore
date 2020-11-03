@@ -2,6 +2,9 @@
 *~
 *#
 
+# Python temp
+*__pycache__*
+
 # Envorinmental libraries
 .env/*
 !.env/requirements.txt
