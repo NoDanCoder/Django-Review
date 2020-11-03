@@ -17,11 +17,7 @@ Including another URLconf
 """ First Hello World app """
 
 from django.urls import path
-from django.http import HttpResponse
-
-def hello_world(request):
-    """ Return HTML content """
-    return HttpResponse('Hello, World!')
+from app.views import hello_world
 
 urlpatterns = [
         path('hello-world', hello_world)
