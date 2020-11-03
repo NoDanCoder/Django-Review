@@ -3,5 +3,5 @@
 *#
 
 # Envorinmental libraries
-.env
-~.env/requirements.txt
+.env/*
+!.env/requirements.txt
