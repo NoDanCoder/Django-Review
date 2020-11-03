@@ -20,5 +20,5 @@ from django.urls import path
 from app.views import hello_world
 
 urlpatterns = [
-        path('hello-world', hello_world)
+        path('hello-world/', hello_world)
 ]
